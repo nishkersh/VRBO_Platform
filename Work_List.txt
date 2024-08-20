@@ -1,0 +1,73 @@
+virtual enviornment
+
+FRONTEND PART
+
+intall nd setup nextJS, create project
+code for nav bar 
+categories on the front page
+list properties on the front page
+digital page for properties (static)
+landing page( static)
+My reservations ( static)
+My properties ( static)
+inbox page ( static)
+Details page for chat ( static)
+user menu pop up
+Create reusable modal window
+log in modal ( remember error codes)
+sign up model ( remember error codes)
+
+BACKEND PART
+setup docker with django with postgresql etc
+    Install DRF, cors,headers etc
+create usermodel/config
+create app for properties
+create model and serializer for properties
+get properties  front end and list the down
+
+    # Implement Authentication
+      1. Log in
+      2. Sign up
+      3. Log out
+
+    # Add properties form nextJS
+      1. Create model
+      2. Api endpoint
+      3. Send  data
+
+    detail page for properties
+    book property
+    land lord page dynamic
+    my properties dynamic
+    my reservations dynamic
+    make it possible to set property as favorite
+    My favvorites page (with string )
+    make conversations dynamic
+
+    set up web sockets in the BACKEND
+    make it possible to connect
+    send/recieve messages
+    store and load messages
+    start new conversations
+
+    set up search filters
+        modal for search filters
+        country search
+        calender for check in check outsearch details (no. of guests, bedrooms ect)
+        API endpoint
+        choose between categoies on the front page
+
+    Deployment
+        setting up git (github)
+        create server on any paltform nd set it up
+
+        BACKEND
+            Create enviornment
+            get codes form git
+            rest of server stuff
+
+        FRONTEND
+            Node,nginx
+            GEt code fomr git 
+
+
